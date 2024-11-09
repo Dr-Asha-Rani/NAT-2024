@@ -1,0 +1,6 @@
+# _config.yml
+
+# This enables Jekyll to output static files from the videos folder
+collections:
+  videos:
+    output: true
